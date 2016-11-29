@@ -1,4 +1,4 @@
-# Tools For Frontend Development 
+# Development Tools
 
 ## Text Editors
 - [Atom](https://atom.io/)
