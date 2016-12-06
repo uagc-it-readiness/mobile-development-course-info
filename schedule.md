@@ -1,7 +1,7 @@
 # Course Schedule
 
 | # |Date   | Topic  | Assignment  |
-|:---:|---|---|---|
+|:---:|:---:|---|---|
 | 1 | Nov 29  | Command Line  |   |
 | 2 | Dec 1  | Git  |   |
 | 3 | Dec 3  | JavaScript: variables, data types, operators, conditionals, loops | Reading: Eloquent JavaScript Chapter 3 <br> Exercises: Eloquent JavaScript Chapter 2 - All Exercises|
