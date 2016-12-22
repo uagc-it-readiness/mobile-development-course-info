@@ -10,5 +10,5 @@
 | 6 | Dec 13  | [JavaScript: objects](http://slides.com/aaronrobinson-1/javascript-objects#/) | Optional: [Eloquent JavaScript Chapter 6](http://eloquentjavascript.net/06_object.html) <br> [Exercise: person object](https://github.com/uagc-it-readiness/mobile-development-course-assignments/tree/master/02-javascript/assignment-4)|
 | 7 | Dec 15  | [JavaScript: DOM](http://slides.com/aaronrobinson-1/javascript-dom) | Optional: [Eloquent JavaScript Chapter 13](http://eloquentjavascript.net/13_dom.html)|
 | 8 | Dec 17  | Savings Calculator Lab Assignment | [Savings Calculator Lab Assignment](https://github.com/robinsonaaron/mobile-development-course-assignments/tree/master/02-javascript/assignment-5)| 
-| 9 | Dec 20  | No lecture | [Eloquent JavaScript Chapter 13](http://eloquentjavascript.net/13_dom.html) |
+| 9 | Dec 20  | No lecture | [Eloquent JavaScript Chapter 14](http://eloquentjavascript.net/14_event.html) |
 | 10 | Dec 22  | [JavaScript: Events](http://slides.com/aaronrobinson-1/javascript-events) | Finish the rest of [Free Code Camp Basic JavaScript](https://www.freecodecamp.com/challenges/comment-your-javascript-code) <br> Enjoy your holidays! |
