@@ -14,3 +14,4 @@
 | 10 | Dec 22  | [JavaScript: Events](http://slides.com/aaronrobinson-1/javascript-events) | Finish the rest of [Free Code Camp Basic JavaScript](https://www.freecodecamp.com/challenges/comment-your-javascript-code) <br> Enjoy your holidays! |
 | 11 | Jan 5  | [How The Internet Works](https://code.org/educate/resources/videos) | [HTTP Reading](https://www.tutorialspoint.com/http/) |
 | 12 | Jan 10  | [JavaScript: Recursion](http://slides.com/aaronrobinson-1/javascript-recursion) | Fibonacci recursive function (first 10 digits) |
+| 13 | Jan 12  | [JavaScript: String Methods](http://slides.com/aaronrobinson-1/javascript-string-methods) | none |
