@@ -15,4 +15,5 @@
 | 11 | Jan 5  | [How The Internet Works](https://code.org/educate/resources/videos) | [HTTP Reading](https://www.tutorialspoint.com/http/) |
 | 12 | Jan 10  | [JavaScript: Recursion](http://slides.com/aaronrobinson-1/javascript-recursion) | Fibonacci recursive function (first 10 digits) |
 | 13 | Jan 12  | [JavaScript: String Methods](http://slides.com/aaronrobinson-1/javascript-string-methods) | none |
+| 14 | Jan 14  | [JavaScript: Array Methods](http://slides.com/aaronrobinson-1/javascript-array-methods) | [JS CRUD Application](https://medium.com/@etiennerouzeaud/a-simple-crud-application-with-javascript-ebc82f688c59#.ulx4d4cx6) |
 
