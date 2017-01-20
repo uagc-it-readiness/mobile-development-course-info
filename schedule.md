@@ -16,4 +16,5 @@
 | 12 | Jan 10  | [JavaScript: Recursion](http://slides.com/aaronrobinson-1/javascript-recursion) | Fibonacci recursive function (first 10 digits) |
 | 13 | Jan 12  | [JavaScript: String Methods](http://slides.com/aaronrobinson-1/javascript-string-methods) | none |
 | 14 | Jan 14  | [JavaScript: Array Methods](http://slides.com/aaronrobinson-1/javascript-array-methods) | [JS CRUD Application](https://medium.com/@etiennerouzeaud/a-simple-crud-application-with-javascript-ebc82f688c59#.ulx4d4cx6) |
-
+| 15 | Jan 17  | Walk through CRUD application | [Eloquent JavaScript Chapter 9](http://eloquentjavascript.net/09_regexp.html) |
+| 16 | Jan 19  | [JavaScript: Regular Expressions](http://slides.com/aaronrobinson-1/javascript-regular-expressions) | [Scope Reading](https://github.com/robinsonaaron/mobile-development-course-assignments/tree/master/02-javascript/assignment-7-scope-reading.md) |
