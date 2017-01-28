@@ -18,4 +18,5 @@
 | 14 | Jan 14  | [JavaScript: Array Methods](http://slides.com/aaronrobinson-1/javascript-array-methods) | [JS CRUD Application](https://medium.com/@etiennerouzeaud/a-simple-crud-application-with-javascript-ebc82f688c59#.ulx4d4cx6) |
 | 15 | Jan 17  | Walk through CRUD application | [Eloquent JavaScript Chapter 9](http://eloquentjavascript.net/09_regexp.html) |
 | 16 | Jan 19  | [JavaScript: Regular Expressions](http://slides.com/aaronrobinson-1/javascript-regular-expressions) | [Scope Reading](https://github.com/uagc-it-readiness/mobile-development-course-assignments/tree/master/02-javascript/assignment-7-scope-reading.md) |
-| 17 | Jan 19  | [JavaScript: Scope](http://slides.com/aaronrobinson-1/javascript-scope) | [Question 7: Scope](https://github.com/uagc-it-readiness/backend-dev-nodejs/blob/master/lectures/06-scope-and-closures/homework.md) |
+| 17 | Jan 24  | [JavaScript: Scope](http://slides.com/aaronrobinson-1/javascript-scope) | [Question 7: Scope](https://github.com/uagc-it-readiness/backend-dev-nodejs/blob/master/lectures/06-scope-and-closures/homework.md) |
+| 18 | Jan 28  | [JavaScript: Prototype](http://eloquentjavascript.net/06_object.html) | Shape hierarchy assignment |
