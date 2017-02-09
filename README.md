@@ -8,7 +8,7 @@
 
 I'll do my best to get back with you within 24 hours.  I'd recommend posting questions to the Slack mobile development course channel #class-mobile.
 
-## Meeting Times - November 29 - ~End of June (Exact Date TBD)
+## Meeting Times - November 29 - June 8
 - Tuesday and Thursday - 5:30 to 9:00
 - Every Other Saturday (starting December 3)  - 8:00 to 4:00
 - [Google Calendar](https://calendar.google.com/calendar/embed?src=ldin2tcorrvgbl18hpjqcrqk24%40group.calendar.google.com&ctz=America/Chicago) with loosely forecasted topics.
