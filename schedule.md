@@ -23,4 +23,5 @@
 | 19 | Jan 31  | JavaScript Review & [ES6](https://github.com/DrkSephy/es6-cheatsheet) | No assignment |
 | 20 | Feb 2  | Introduction to NodeJS | [TypeScript tutorial](https://www.typescriptlang.org/docs/tutorial.html) |
 | 21 | Feb 7  | [TypeScript](http://slides.com/aaronrobinson-1/typescript) | No assignment |
-| 22 | Feb 9  | [TypeScript continued](http://slides.com/aaronrobinson-1/typescript) | No assignment |
+| 22 | Feb 9  | [TypeScript continued](http://slides.com/aaronrobinson-1/typescript-continued) | No assignment |
+| 23 | Feb 11  | Angular 2 Quickstart | [Student Progress Assignment](https://github.com/robinsonaaron/student-assignment-angular-quickstart) |
