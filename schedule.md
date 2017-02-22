@@ -27,4 +27,4 @@
 | 23 | Feb 11  | Angular 2 Quickstart | [Student Progress Assignment](https://github.com/robinsonaaron/student-assignment-angular-quickstart) |
 | 24 | Feb 14  | Angular 2 Modules | [Student Progress Assignment](https://github.com/robinsonaaron/student-assignment-angular-quickstart) |
 | 25 | Feb 16  | Review Student Progress Assignment | Add letter grade and delete assignment functionality to the [Student Progress Assignment](https://github.com/robinsonaaron/student-assignment-angular-quickstart) <br/> Read [Angular 2 Components](https://angular.io/docs/ts/latest/guide/architecture.html#components) |
-| 26 | Feb 21  | Review Assignment<br/>Angular Architecture | [Angular Tour of Heroes Tutorial](https://angular.io/docs/ts/latest/tutorial/) |
+| 26 | Feb 21  | Review Assignment<br/>Angular Architecture | [Angular Tour of Heroes Tutorial](https://github.com/uagc-it-readiness/mobile-development-course-assignments/tree/master/03-angular/assignment-2#assignment-2) |
