@@ -25,3 +25,6 @@
 | 21 | Feb 7  | [TypeScript](http://slides.com/aaronrobinson-1/typescript) | No assignment |
 | 22 | Feb 9  | [TypeScript continued](http://slides.com/aaronrobinson-1/typescript-continued) | No assignment |
 | 23 | Feb 11  | Angular 2 Quickstart | [Student Progress Assignment](https://github.com/robinsonaaron/student-assignment-angular-quickstart) |
+| 24 | Feb 14  | Angular 2 Modules | [Student Progress Assignment](https://github.com/robinsonaaron/student-assignment-angular-quickstart) |
+| 25 | Feb 16  | Review Student Progress Assignment | Add letter grade and delete assignment functionality to the [Student Progress Assignment](https://github.com/robinsonaaron/student-assignment-angular-quickstart) <br/> Read [Angular 2 Components](https://angular.io/docs/ts/latest/guide/architecture.html#components) |
+| 26 | Feb 21  | Review Assignment<br/>Angular Architecture | [Angular Tour of Heroes Tutorial](https://angular.io/docs/ts/latest/tutorial/) |
