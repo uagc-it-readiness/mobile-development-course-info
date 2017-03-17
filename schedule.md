@@ -36,3 +36,4 @@
 | 32 | Mar 9  | [Introduction to Ionic](https://ionicframework.com/) ||
 | 33 | Mar 11  | [Ionic Deployment](https://cordova.apache.org/docs/en/latest/guide/platforms/android/) ||
 | 34 | Mar 14  | In class application design and development ||
+| 35 | Mar 17  | In class application design and development | [Ionic App Assignment](https://github.com/uagc-it-readiness/mobile-development-course-assignments/tree/master/04-ionic/assignment-1) |
