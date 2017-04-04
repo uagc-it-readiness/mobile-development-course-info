@@ -42,10 +42,10 @@
 | 38 | Mar 25  | [Individual Ionic Assignment](https://github.com/uagc-it-readiness/mobile-development-course-assignments/tree/master/04-ionic/assignment-1) ||
 | 39 | Mar 28  | Present Student Ionic Assignments ||
 | 40 | Mar 30  | { Fayetteville.js } Meetup ||
-| 41 | Apr 4   | Capstone Project Introduction, Ionic:Modals | Capstone Project Assigned |
+| 41 | Apr 4   | Capstone Project Introduction, Ionic:Modals | [Capstone Project Assigned](capstone.md) |
 | 42 | Apr 6   |  ||
 | 43 | Apr 8   |  ||
-| 44 | Apr 11  |  ||
+| 44 | Apr 11  |  | [Capstone Project Idea Approval Due](capstone.md) |
 | 42 | Apr 13  |  ||
 | 43 | Apr 18  |  ||
 | 44 | Apr 20  |  ||
