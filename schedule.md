@@ -32,3 +32,8 @@
 | 28 | Feb 25  | Student Progress Assignment (Part 2): Adding Angular Services | [Angular Assignment 3 - Student Progress Assignment: Angular Services](https://github.com/uagc-it-readiness/mobile-development-course-assignments/tree/master/03-angular/assignment-3) |
 | 29 | Feb 28  | [Angular: HTTP and Promises](https://angular.io/docs/ts/latest/tutorial/toh-pt6.html#!#sts=HTTP%20Promise) | [Angular Assignment 3 - Student Progress Assignment: Angular Services](https://github.com/uagc-it-readiness/mobile-development-course-assignments/tree/master/03-angular/assignment-3) |
 | 30 | Mar 2  | [Review Assignment 3 - Angular Services](https://github.com/uagc-it-readiness/mobile-development-course-assignments/tree/master/03-angular/assignment-3) | [Reactive Forms](https://angular.io/docs/ts/latest/guide/reactive-forms.html) |
+| 31 | Mar 7  | [Review Assignment 3 Pt. 2](https://github.com/uagc-it-readiness/mobile-development-course-assignments/tree/master/03-angular/assignment-3) ||
+| 32 | Mar 9  | [Introduction to Ionic](https://ionicframework.com/) ||
+| 33 | Mar 11  | [Ionic Deployment](https://cordova.apache.org/docs/en/latest/guide/platforms/android/) ||
+| 34 | Mar 14  | In class application design and development ||
+| 35 | Mar 17  | In class application design and development | [Ionic App Assignment](https://github.com/uagc-it-readiness/mobile-development-course-assignments/tree/master/04-ionic/assignment-1) |
