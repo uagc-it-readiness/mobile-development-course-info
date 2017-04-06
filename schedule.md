@@ -37,12 +37,13 @@
 | 33 | Mar 11  | [Ionic Deployment](https://cordova.apache.org/docs/en/latest/guide/platforms/android/) ||
 | 34 | Mar 14  | In class application design and development ||
 | 35 | Mar 17  | In class application design and development | [Ionic App Assignment](https://github.com/uagc-it-readiness/mobile-development-course-assignments/tree/master/04-ionic/assignment-1) |
+| 35 | Mar 17  | In class application design and development | [Ionic App Assignment](https://github.com/uagc-it-readiness/mobile-development-course-assignments/tree/master/04-ionic/assignment-1) |
 | 36 | Mar 21  | [Individual Ionic Assignment](https://github.com/uagc-it-readiness/mobile-development-course-assignments/tree/master/04-ionic/assignment-1) ||
 | 37 | Mar 23  | [Individual Ionic Assignment](https://github.com/uagc-it-readiness/mobile-development-course-assignments/tree/master/04-ionic/assignment-1) ||
 | 38 | Mar 25  | [Individual Ionic Assignment](https://github.com/uagc-it-readiness/mobile-development-course-assignments/tree/master/04-ionic/assignment-1) ||
 | 39 | Mar 28  | Present Student Ionic Assignments ||
 | 40 | Mar 30  | { Fayetteville.js } Meetup ||
-| 41 | Apr 4   | Capstone Project Introduction, Ionic:Modals | [Capstone Project Assigned](capstone.md) |
+| 41 | Apr 4   | Capstone Project Introduction, Ionic:Modals | [Capstone Project Assigned](capstone.md) <br/>[Iongithub followers assignment](https://github.com/uagc-it-readiness/mobile-development-course-assignments/tree/master/04-ionic/assignment-2) (Due 4/6)|
 | 42 | Apr 6   |  ||
 | 43 | Apr 8   |  ||
 | 44 | Apr 11  |  | [Capstone Project Idea Approval Due](capstone.md) |
