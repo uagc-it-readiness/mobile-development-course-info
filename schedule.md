@@ -44,13 +44,13 @@
 | 39 | Mar 28  | Present Student Ionic Assignments ||
 | 40 | Mar 30  | { Fayetteville.js } Meetup ||
 | 41 | Apr 4   | Capstone Project Introduction, Ionic:Modals | [Capstone Project Assigned](capstone.md) <br/>[Iongithub followers assignment](https://github.com/uagc-it-readiness/mobile-development-course-assignments/tree/master/04-ionic/assignment-2) (Due 4/6)|
-| 42 | Apr 6   |  ||
-| 43 | Apr 8   |  ||
+| 42 | Apr 6   | Review Ionic Assignment 2 | [Capstone Project Idea](capstone.md)|
+| 43 | Apr 8   | [Ionic Components](https://ionicframework.com/docs/components/) | [Capstone Project Idea](capstone.md) |
 | 44 | Apr 11  |  | [Capstone Project Idea Approval Due](capstone.md) |
-| 42 | Apr 13  |  ||
-| 43 | Apr 18  |  ||
-| 44 | Apr 20  |  ||
-| 45 | Apr 22  |  ||
+| 42 | Apr 13  | Ionic 3, Semver | capstone project |
+| 43 | Apr 18  | Third party libraries with Ionic | capstone project |
+| 44 | Apr 20  | Student presentations: capstone progress <br /> Custom Ionic directives | capstone project |
+| 45 | Apr 22  | Agile Software Development<br /> Ionic Lazy Loading and Deep Linking | capstone project |
 | 46 | Apr 25  |  ||
 | 47 | Apr 27  |  ||
 | 48 | May 2   |  ||
