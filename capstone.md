@@ -1,8 +1,8 @@
 # Capstone Project Requirements
 
-## Project Approval Due: April 11, 2017
+## Project Approval Due: TBD
 
-## Final Project Due: May 9, 2017
+## Final Project Due: TBD
 
 ### FYIs
 
