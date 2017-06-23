@@ -1,5 +1,6 @@
 # U of A - Mobile Development Course Information
-###**[Course Schedule and Assignments](schedule.md)**
+**[Course Schedule and Assignments](schedule.md)**<br/>
+**[Course Google Calendar](https://calendar.google.com/calendar/embed?src=0tn5lnum7etp0codkk63df9gv8%40group.calendar.google.com&ctz=America/Chicago)**
 
 ## Instructor Contact Information
 - Aaron Robinson 
@@ -8,10 +9,10 @@
 
 I'll do my best to get back with you within 24 hours.  I'd recommend posting questions to the Slack mobile development course channel #class-mobile.
 
-## Meeting Times - November 29 - June 8
+## Meeting Times - July 11 to mid-December
 - Tuesday and Thursday - 5:30 to 9:00
-- Every Other Saturday (starting December 3)  - 8:00 to 4:00
-- [Google Calendar](https://calendar.google.com/calendar/embed?src=ldin2tcorrvgbl18hpjqcrqk24%40group.calendar.google.com&ctz=America/Chicago) with loosely forecasted topics.
+- Every Other Saturday (starting July 15)  - 8:30 to 2:30
+- [Google Calendar](https://calendar.google.com/calendar/embed?src=0tn5lnum7etp0codkk63df9gv8%40group.calendar.google.com&ctz=America/Chicago) with loosely forecasted topics.
 - We'll have breaks during class for meals, snack, etc. There is a fridge and microwave available.
 - **Inclement Weather Policy** - We wont have class if the U of A is closed.
 
