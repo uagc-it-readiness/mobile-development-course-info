@@ -9,4 +9,4 @@
 | 5 | July 20  | JavaScript: conditionals, loops | [Free Codecamp](https://www.freecodecamp.com/challenges/comment-your-javascript-code): Complete Basic JavaScript up to "Word Blanks" <br/> Textbook Chapter 2 |
 | 6 | July 25  | Class Cancelled: Instructor had a bug | Textbook Chapter 2 |
 | 7 | July 27  | JavaScript: functions | Textbook Chapter 3 |
-| 8 | July 28  | | |
+| 8 | July 29  | | |
