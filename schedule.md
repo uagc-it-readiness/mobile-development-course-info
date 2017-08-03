@@ -10,4 +10,4 @@
 | 6 | July 25  | Class Cancelled: Instructor had a bug | Textbook Chapter 2 |
 | 7 | July 27  | JavaScript: functions | Textbook Chapter 3 |
 | 8 | July 29  | [JavaScript: arrays](http://slides.com/aaronrobinson-1/javascript-array-methods) | Textbook Chapter 4 |
-| 9 | July 29  | [JavaScript: string methods](http://slides.com/aaronrobinson-1/javascript-string-methods) | [Free Codecamp](https://www.freecodecamp.com/challenges/comment-your-javascript-code): Complete Basic JavaScript up to "Code Golf" <br/> Textbook Chapter 4 |
+| 9 | July 29  | [JavaScript: string methods](http://slides.com/aaronrobinson-1/javascript-string-methods) | [Free Codecamp](https://www.freecodecamp.com/challenges/comment-your-javascript-code): Complete Basic JavaScript up to "Golf Code" <br/> Textbook Chapter 4 |
