@@ -13,3 +13,7 @@
 | 9 | Aug 1  | [JavaScript: string methods](http://slides.com/aaronrobinson-1/javascript-string-methods) | [Free Codecamp](https://www.freecodecamp.com/challenges/comment-your-javascript-code): Complete Basic JavaScript up to "Golf Code" <br/> Textbook Chapter 4 |
 | 10 | Aug 3  | The DOM | [Savings Calculator (fork and clone your own copy)](https://github.com/robinsonaaron/assignment-savings-calculator) <br/> Textbook Chapter 6 (skipping 5 for now) |
 | | BREAK |NEXT CLASS WILL BE AUG 15 | |
+| 11 | Aug 15 | Review [Savings Calculator Assignment](https://github.com/robinsonaaron/assignment-savings-calculator) | Textbook Chapter 5 |
+| 12 | Aug 17 | Objects | [Free Codecamp: All of Basic JavaScript](https://www.freecodecamp.com/challenges/comment-your-javascript-code) <br/> Textbook Chapter 5 Continued |
+| 13 | Aug 22 | Advanced Objects: Constructors and Prototypes | Supplemental Reading: [Chapter 6 Eloquent JavaScript](http://eloquentjavascript.net/06_object.html) |
+| 14 | Aug 24 |  |
