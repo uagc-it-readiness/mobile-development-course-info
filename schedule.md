@@ -11,9 +11,11 @@
 | 7 | July 27  | JavaScript: functions | Textbook Chapter 3 |
 | 8 | July 29  | [JavaScript: arrays](http://slides.com/aaronrobinson-1/javascript-array-methods) | Textbook Chapter 4 |
 | 9 | Aug 1  | [JavaScript: string methods](http://slides.com/aaronrobinson-1/javascript-string-methods) | [Free Codecamp](https://www.freecodecamp.com/challenges/comment-your-javascript-code): Complete Basic JavaScript up to "Golf Code" <br/> Textbook Chapter 4 |
-| 10 | Aug 3  | The DOM | [Savings Calculator (fork and clone your own copy)](https://github.com/robinsonaaron/assignment-savings-calculator) <br/> Textbook Chapter 6 (skipping 5 for now) |
+| 10 | Aug 3  | [The DOM](http://slides.com/aaronrobinson-1/javascript-dom#/) | [Savings Calculator (fork and clone your own copy)](https://github.com/robinsonaaron/assignment-savings-calculator) <br/> Textbook Chapter 6 (skipping 5 for now) |
 | | BREAK |NEXT CLASS WILL BE AUG 15 | |
 | 11 | Aug 15 | Review [Savings Calculator Assignment](https://github.com/robinsonaaron/assignment-savings-calculator) | Textbook Chapter 5 |
-| 12 | Aug 17 | Objects | [Free Codecamp: All of Basic JavaScript](https://www.freecodecamp.com/challenges/comment-your-javascript-code) <br/> Textbook Chapter 5 Continued |
+| 12 | Aug 17 | [Objects](http://slides.com/aaronrobinson-1/javascript-objects#/) | [Free Codecamp: All of Basic JavaScript](https://www.freecodecamp.com/challenges/comment-your-javascript-code) <br/> Textbook Chapter 5 Continued |
 | 13 | Aug 22 | Advanced Objects: Constructors and Prototypes | Supplemental Reading: [Chapter 6 Eloquent JavaScript](http://eloquentjavascript.net/06_object.html) |
-| 14 | Aug 24 |  |
+| 14 | Aug 24 | [Events](http://slides.com/aaronrobinson-1/javascript-events#/) | Supplemental Reading: [Chapter 14 Eloquent JavaScript](http://eloquentjavascript.net/14_event.html) |
+| 15 | Aug 26 | CRUD Applications | Regular Expressions reading:<br/>[Chapter 9 Eloquent JavaScript](http://eloquentjavascript.net/09_regexp.html)<br/>Head First JavaScript Appendix 7 |
+| 16 | Aug 29 | Regular Expressions | |
