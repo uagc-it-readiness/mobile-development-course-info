@@ -19,4 +19,5 @@
 | 14 | Aug 24 | [Events](http://slides.com/aaronrobinson-1/javascript-events#/) | Supplemental Reading: [Chapter 14 Eloquent JavaScript](http://eloquentjavascript.net/14_event.html) |
 | 15 | Aug 26 | CRUD Applications | Regular Expressions reading:<br/>[Chapter 9 Eloquent JavaScript](http://eloquentjavascript.net/09_regexp.html)<br/>Head First JavaScript Appendix 7 |
 | 16 | Aug 29 | Regular Expressions | [Recursion Reading Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/a/recursion)<br />[ES6 Features](http://es6-features.org/) |
-| 17 | Aug 31 | ES6 and Recursion | |
+| 17 | Aug 31 | ES6 and [Recursion](http://slides.com/aaronrobinson-1/javascript-recursion) | |
+| 18 | Sep 5 | Review and Exercises | |
