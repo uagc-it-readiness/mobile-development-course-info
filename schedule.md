@@ -20,4 +20,7 @@
 | 15 | Aug 26 | CRUD Applications | Regular Expressions reading:<br/>[Chapter 9 Eloquent JavaScript](http://eloquentjavascript.net/09_regexp.html)<br/>Head First JavaScript Appendix 7 |
 | 16 | Aug 29 | Regular Expressions | [Recursion Reading Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/a/recursion)<br />[ES6 Features](http://es6-features.org/) |
 | 17 | Aug 31 | ES6 and [Recursion](http://slides.com/aaronrobinson-1/javascript-recursion) | |
-| 18 | Sep 5 | Review and Exercises | |
+| 18 | Sep 5 | Review and Exercises | [Review JavaScript and Git Eval Topics](./evaluation_1_topics.md) <br/> Study for Evaluation on Saturday<br/> Reading Chapter 7 Head First JavaScript |
+| 19 | Sep 7 | Special Types (Undefined, NaN, null) | [Review JavaScript and Git Eval Topics](./evaluation_1_topics.md) <br/> Study for Evaluation on Saturday |
+| 20 | Sep 9 | Evaluation 1 | [Modules Reading](http://2ality.com/2014/09/es6-modules-final.html) |
+| 21 | Sep 12 | Modules ||
