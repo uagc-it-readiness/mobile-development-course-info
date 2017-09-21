@@ -24,3 +24,6 @@
 | 19 | Sep 7 | Special Types (Undefined, NaN, null) | [Review JavaScript and Git Eval Topics](./evaluation_1_topics.md) <br/> Study for Evaluation on Saturday |
 | 20 | Sep 9 | Evaluation 1 | [Modules Reading](http://2ality.com/2014/09/es6-modules-final.html) |
 | 21 | Sep 12 | Modules ||
+| 22 | Sep 14 | [TypeScript](http://slides.com/aaronrobinson-1/typescript#/) ||
+| 22 | Sep 19 | [TypeScript (continued)](http://slides.com/aaronrobinson-1/typescript-continued#/) ||
+| 22 | Sep 21 | [Angular: Getting Started](https://angular.io/guide/quickstart) and [TypeScript Interfaces](https://www.typescriptlang.org/docs/handbook/interfaces.html) ||
