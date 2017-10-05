@@ -25,5 +25,10 @@
 | 20 | Sep 9 | Evaluation 1 | [Modules Reading](http://2ality.com/2014/09/es6-modules-final.html) |
 | 21 | Sep 12 | Modules ||
 | 22 | Sep 14 | [TypeScript](http://slides.com/aaronrobinson-1/typescript#/) ||
-| 22 | Sep 19 | [TypeScript (continued)](http://slides.com/aaronrobinson-1/typescript-continued#/) ||
-| 22 | Sep 21 | [Angular: Getting Started](https://angular.io/guide/quickstart) and [TypeScript Interfaces](https://www.typescriptlang.org/docs/handbook/interfaces.html) ||
+| 23 | Sep 19 | [TypeScript (continued)](http://slides.com/aaronrobinson-1/typescript-continued#/) ||
+| 24 | Sep 21 | [Angular: Getting Started](https://angular.io/guide/quickstart) and [TypeScript Interfaces](https://www.typescriptlang.org/docs/handbook/interfaces.html) ||
+| 25 | Sep 26 | Tour of Heroes Tutorial ||
+| 26 | Sep 28 | In-class Assignment: Angular Mortgage Calculator | Angular: Student Progress Assignment (Due October 10) |
+| 27 | Oct 3 | Review Angular Mortgage Calculator Assignment ||
+| 28 | Oct 4 | Angular: Binding to Services, Pipes ||
+| 29 | Oct 6 | Angular: Lifecycle hooks, Time to work on assignment ||
