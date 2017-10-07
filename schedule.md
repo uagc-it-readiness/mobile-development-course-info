@@ -30,5 +30,5 @@
 | 25 | Sep 26 | Tour of Heroes Tutorial ||
 | 26 | Sep 28 | In-class Assignment: Angular Mortgage Calculator | Angular: Student Progress Assignment (Due October 10) |
 | 27 | Oct 3 | Review Angular Mortgage Calculator Assignment ||
-| 28 | Oct 4 | Angular: Binding to Services, Pipes ||
-| 29 | Oct 6 | Angular: Lifecycle hooks, Time to work on assignment ||
+| 28 | Oct 4 | Angular: Binding to Services, Input into other components ||
+| 29 | Oct 6 | Angular: Pipes, Lifecycle hooks, Time to work on assignment ||
