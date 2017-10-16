@@ -31,4 +31,7 @@
 | 26 | Sep 28 | In-class Assignment: Angular Mortgage Calculator | Angular: Student Progress Assignment (Due October 10) |
 | 27 | Oct 3 | Review Angular Mortgage Calculator Assignment ||
 | 28 | Oct 4 | Angular: Binding to Services, Input into other components ||
-| 29 | Oct 6 | Angular: Pipes, Lifecycle hooks, Time to work on assignment ||
+| 29 | Oct 6 | [Angular: Pipes](https://angular.io/guide/pipes), Time to work on assignment ||
+| 30 | Oct 10 | Angular: [Lifecycle hooks](https://angular.io/guide/lifecycle-hooks), Time to work on student progress assignment |Angular:Student Progress Assignment Due|
+| 31 | Oct 12 | Student progress assignment review, [Angular: HttpClient](https://angular.io/guide/http) and APIs| Ideate your final project using [public APIs](https://github.com/toddmotto/public-apis)|
+| 32 | Oct 17 | Angular:Student Progress Assignment with a backend API using [json-server](https://github.com/typicode/json-server)  ||
