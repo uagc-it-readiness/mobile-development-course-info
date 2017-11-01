@@ -35,3 +35,9 @@
 | 30 | Oct 10 | Angular: [Lifecycle hooks](https://angular.io/guide/lifecycle-hooks), Time to work on student progress assignment |Angular:Student Progress Assignment Due|
 | 31 | Oct 12 | Student progress assignment review, [Angular: HttpClient](https://angular.io/guide/http) and APIs| Ideate your final project using [public APIs](https://github.com/toddmotto/public-apis)|
 | 32 | Oct 17 | Angular:Student Progress Assignment with a backend API using [json-server](https://github.com/typicode/json-server)  ||
+| 33 | Oct 19 | Sequence diagrams, Angular: Student Progress Assignment with a backend API continued  ||
+| 34 | Oct 21 | Introduction to Ionic: [Ionic Installation](https://ionicframework.com/docs/intro/installation/), [Ionic Tutorial](https://ionicframework.com/docs/intro/tutorial/), Ionic Component Presentations ||
+| 35 | Oct 24 | [Iongithub](https://github.com/robinsonaaron/iongithub), Ionic Component Presentations Continued  ||
+| 36 | Oct 26 | [Iongithub Continued](https://github.com/robinsonaaron/iongithub)  | Capstone project writeup |
+| 37 | Oct 31 | NO CLASS - Halloween  ||
+| 38 | Nov 2 | Ionic/Cordova, Discuss capstone projects ||
